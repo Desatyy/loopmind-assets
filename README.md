@@ -1,0 +1,2 @@
+# loopmind-assets
+loopmind-assets
